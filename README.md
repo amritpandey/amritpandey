@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @amritpandey
-- 👀 I’m interested in programming and development of software application
+- 👋 Hi, I’m Amrit Pandey
+- 👀 I’m interested in programming and development of software/web application
 - 🌱 I’m currently learning full stack development with Hack your Future
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on frontend-backend-database development.
 - 📫 You can reach me at amrit.pandey111@gmail.com
 
 <!---
