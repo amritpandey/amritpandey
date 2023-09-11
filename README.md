@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amrit Pandey
 - 👀 I’m interested in programming and development of software/web application
-- 🌱 I’m currently learning full stack development with Hack your Future
+- 🌱 I’ve completed full stack development intensive 33 weeks bootcamp course with Hack your Future
 - 💞️ I’m looking to collaborate on frontend-backend-database development.
 - 📫 You can reach me at amrit.pandey111@gmail.com
 
